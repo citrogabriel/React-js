@@ -1,17 +1,18 @@
 {
-  "name": "react",
+  "name": "y",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vitenpn",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "sweetalert2": "^11.12.2"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
